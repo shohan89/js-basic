@@ -28,4 +28,21 @@ console.log(numbers[3]); // get element value by index
 
 const fourth = numbers[3];
 
-// set or update element value by index
+// Array methods => push, pop, shift, unshift
+const ages = [];
+const number = [4, 5, 6, 7];
+
+number.push(9); // use push method to add new element in an array
+console.log(number);
+
+// Output: [4, 5, 6, 7, 9]
+
+number.pop(); // Removes the last element from an array and returns it. If the array is empty, undefined is returned and the array is not modified.
+
+
+
+
+
+
+
+
